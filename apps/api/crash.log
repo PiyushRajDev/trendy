@@ -1,0 +1,143 @@
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [95mversion[0m[37m([0m[37m)[0m
+[90m[4mquery:[24m[39m [94mSELECT[0m [37m*[0m [94mFROM[0m [95mcurrent_schema[0m[37m([0m[37m)[0m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDatabaseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTypeOrmModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mLoggerModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mThrottlerModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mWinstonModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDiscoveryModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mEventEmitterModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mScheduleModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mElasticsearchInfraModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mRedisModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mCacheModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mEventsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (1)...[39m
+DataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)
+    at DataSource.buildMetadatas (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:493:33)
+    at async DataSource.initialize (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:145:13)
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (2)...[39m
+DataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)
+    at DataSource.buildMetadatas (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:493:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async DataSource.initialize (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:145:13)
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (3)...[39m
+DataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)
+    at DataSource.buildMetadatas (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:493:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async DataSource.initialize (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:145:13)
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (4)...[39m
+DataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)
+    at DataSource.buildMetadatas (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:493:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async DataSource.initialize (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:145:13)
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (5)...[39m
+DataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)
+    at DataSource.buildMetadatas (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:493:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async DataSource.initialize (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:145:13)
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (6)...[39m
+DataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)
+    at DataSource.buildMetadatas (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:493:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async DataSource.initialize (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:145:13)
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (7)...[39m
+DataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)
+    at DataSource.buildMetadatas (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:493:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async DataSource.initialize (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:145:13)
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (8)...[39m
+DataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)
+    at DataSource.buildMetadatas (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:493:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async DataSource.initialize (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:145:13)
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[TypeOrmModule] [39m[31mUnable to connect to the database. Retrying (9)...[39m
+DataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:86:18)
+    at /home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany (/home/piyush/trendy/apps/api/node_modules/typeorm/metadata-builder/EntityMetadataValidator.js:38:25)
+    at DataSource.buildMetadatas (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:493:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async DataSource.initialize (/home/piyush/trendy/apps/api/node_modules/typeorm/data-source/DataSource.js:145:13)
+[31m[Nest] 51978  - [39m04/15/2026, 5:03:43 PM [31m  ERROR[39m [38;5;3m[ExceptionHandler] [39mDataTypeNotSupportedError: Data type "Object" in "ProductVariant.size" is not supported by "postgres" database.
+    at [90m/home/piyush/trendy/apps/api/[39mnode_modules/[4mtypeorm[24m/metadata-builder/EntityMetadataValidator.js:89:27
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validate [90m(/home/piyush/trendy/apps/api/[39mnode_modules/[4mtypeorm[24m/metadata-builder/EntityMetadataValidator.js:86:18[90m)[39m
+    at [90m/home/piyush/trendy/apps/api/[39mnode_modules/[4mtypeorm[24m/metadata-builder/EntityMetadataValidator.js:38:58
+    at Array.forEach (<anonymous>)
+    at EntityMetadataValidator.validateMany [90m(/home/piyush/trendy/apps/api/[39mnode_modules/[4mtypeorm[24m/metadata-builder/EntityMetadataValidator.js:38:25[90m)[39m
+    at DataSource.buildMetadatas [90m(/home/piyush/trendy/apps/api/[39mnode_modules/[4mtypeorm[24m/data-source/DataSource.js:493:33[90m)[39m
+[90m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[39m
+    at async DataSource.initialize [90m(/home/piyush/trendy/apps/api/[39mnode_modules/[4mtypeorm[24m/data-source/DataSource.js:145:13[90m)[39m
